@@ -1,0 +1,2 @@
+--------------------- USERS --------------------
+INSERT INTO USER(email, name, password, status, failed_attempts, role) VALUES ('hamza@gmail.com', 'Hamza Mustafa Khan', '$2a$10$2lkpCTlf7/5DILb30XvhCuznO3afJSGA55hne0yQBAs0xfRwoqL2O', 'active', 0, 1)
